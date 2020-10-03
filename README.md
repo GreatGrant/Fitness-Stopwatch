@@ -1,1 +1,1 @@
-# Fitness-Stopwatch is a simple stop watch designed to illustrate how animations in android works using xml resources
+# Fitness-Stopwatch is a simple stop watch app designed to illustrate how animations work in android using xml resources
